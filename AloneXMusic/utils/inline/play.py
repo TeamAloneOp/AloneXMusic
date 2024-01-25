@@ -69,14 +69,14 @@ def stream_markup_timer(_, chat_id, played, dur):
                  [
             InlineKeyboardButton(
 
-                text="ᴅᴇᴠ 💕",
+                text="👻𝐓ɢ_𝐆ᴏᴅ💘",
 
-                url=f"t.me/{OWNER_USERNAME}",
+                url=f"t.me/ll4st_MIND_GAMERII",
 
             ),
             InlineKeyboardButton(
 
-                text="💌 ɢʀᴏᴜᴘ",
+                text="🎀4sᴛ_𝐏ᴏᴡᴇʀ✨",
 
                 url=f"{SUPPORT_CHAT}",
 
@@ -99,14 +99,14 @@ def stream_markup(_, chat_id):
                  [
             InlineKeyboardButton(
 
-                text="ᴅᴇᴠ 💕",
+                text="👻𝐓ɢ_𝐆ᴏᴅ💘",
 
-                url=f"t.me/{OWNER_USERNAME}",
+                url=f"t.me/ll4st_MIND_GAMERII",
 
             ),
             InlineKeyboardButton(
 
-                text="💌 ɢʀᴏᴜᴘ",
+                text="🎀4sᴛ_𝐏ᴏᴡᴇʀ✨",
 
                 url=f"{SUPPORT_CHAT}",
 

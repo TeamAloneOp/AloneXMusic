@@ -1,7 +1,7 @@
 {
-    "name": "ᴀʟᴏɴᴇ ダ ᴍᴜsɪᴄ",
+    "name": "4sᴛ ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
+    "logo": "https://telegra.ph/file/74f686b224af3a2101db2.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -29,12 +29,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6079943111",
+        "value": "6428719458",
         "required": true
       },
       "STRING_SESSION": {
