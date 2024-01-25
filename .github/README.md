@@ -14,7 +14,7 @@
 
 
 <h2 align="center">
-    𖢵 ᴀʅσηҽ χ мυѕι¢ 𖢵
+    𖢵 ᴄυтє ѕαиαтαиι мυѕιᴄ 𖢵
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
@@ -37,7 +37,7 @@
   <img src="https://te.legra.ph/file/265e29bc52c7a32b67081.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗔𝗟𝗢𝗡𝗘🍷𝗠𝗨𝗦𝗜𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/AloneXMusicbot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣[ᴄυтє • ѕαиαтαиι](https://t.me/SANATANI_MUSIC_BOT)**
 
 
 
