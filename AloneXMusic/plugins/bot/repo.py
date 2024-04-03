@@ -4,7 +4,7 @@ from AloneXMusic import app
 from config import BOT_USERNAME
 
 start_txt = """
-✪ 𝐖εℓ¢σмє 𝐅σя 𝐀ℓσиє 𝐑єρσѕ ✪
+✪ ᏯᎬᏝᏨᎾᎷᎬ ᎿᎾ ᎠᎶᏕ ᏨᎾᎠᎬᏒ✪
  
  ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
  
@@ -19,18 +19,18 @@ start_txt = """
 
 
 
-@app.on_message(filters.command("repo"))
+@app.on_message(filters.command("psycho"))
 async def start(_, msg):
     buttons = [
         [ 
           InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/AlonesHeaven"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ALONE_WAS_BOT"),
+          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/drogules_chating_adda"),
+          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/town_of_ghost"),
           ],
                [
-                InlineKeyboardButton("𝗔𝗟𝗢𝗡𝗘 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://t.me/AloneXBots"),
+                InlineKeyboardButton("𝗗𝗥𝗢𝗚𝗨𝗟𝗘𝗦 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://t.me/drogules_network"),
 
 ],
 [
